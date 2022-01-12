@@ -37,7 +37,7 @@ class App extends Component {
         return items;
     }else {
       return items.filter(item => {
-          return item.coutry.indexOf(term) > -1  //фильр.все данные и там находят кусочки строк(indexOf), ктр с совпадают с поиском(term) и показываем если такой есть(> -1)
+          return item.coutry.toLowerCase().indexOf(term) > -1  //фильр.все данные и там находят кусочки строк(indexOf), ктр с совпадают с поиском(term) и показываем если такой есть(> -1)
       })    
     } 
     
