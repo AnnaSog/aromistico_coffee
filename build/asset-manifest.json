@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60c31f51.chunk.css",
+    "main.js": "/static/js/main.d038e97e.chunk.js",
+    "main.js.map": "/static/js/main.d038e97e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e459b8e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e459b8e9.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.09445966.chunk.js": "/static/js/2.09445966.chunk.js",
+    "static/js/2.09445966.chunk.js.map": "/static/js/2.09445966.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.60c31f51.chunk.css.map": "/static/css/main.60c31f51.chunk.css.map",
+    "static/js/2.09445966.chunk.js.LICENSE.txt": "/static/js/2.09445966.chunk.js.LICENSE.txt",
+    "static/media/ourCoffee.css": "/static/media/Mask Group.35a31374.jpg",
+    "static/media/aromistico.b9403628.jpg": "/static/media/aromistico.b9403628.jpg",
+    "static/media/forOurPleasure.css": "/static/media/coffee-bg.53e89605.png",
+    "static/media/coffee_box.dcb91dcb.png": "/static/media/coffee_box.dcb91dcb.png",
+    "static/media/cup.2aae6368.png": "/static/media/cup.2aae6368.png",
+    "static/media/appAboutUs.css": "/static/media/paper-1074131_1920.2789623e.png",
+    "static/media/girl.b409eaa4.jpg": "/static/media/girl.b409eaa4.jpg",
+    "static/media/logo_white_aboutUs.fa594e7b.svg": "/static/media/logo_white_aboutUs.fa594e7b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e459b8e9.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.09445966.chunk.js",
+    "static/css/main.60c31f51.chunk.css",
+    "static/js/main.d038e97e.chunk.js"
+  ]
+}
