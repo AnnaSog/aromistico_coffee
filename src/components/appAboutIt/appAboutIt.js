@@ -8,6 +8,7 @@ import './appAboutIt.css';
 
 const AppAboutIt = ({coffeeId, data}) => {
 
+    
     const elements = data.map(item => {     //перебираем [] c данными и каждый раз создаем новую карточку с данными, ктр прописаны
         const {id, coutry, price} = item;   //необходимо из объекта элемента(item) отделить id
         if(coffeeId === id ) {
